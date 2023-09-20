@@ -1,0 +1,99 @@
+{
+ "cards": [
+  {
+   "card": "Total Value of Files"
+  },
+  {
+   "card": "Total collection due"
+  },
+  {
+   "card": "Total amount collected from bank"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Total amount collected from bank",
+   "width": "Half"
+  },
+  {
+   "chart": "Total Value of Files",
+   "width": "Half"
+  },
+  {
+   "chart": "Total collection due",
+   "width": "Half"
+  },
+  {
+   "chart": "s2: Total amount collected from bank",
+   "width": "Half"
+  },
+  {
+   "chart": "s2: Total Value of Files",
+   "width": "Half"
+  },
+  {
+   "chart": "s2: Total collection due",
+   "width": "Half"
+  },
+  {
+   "chart": "s3: Total amount collected from bank",
+   "width": "Half"
+  },
+  {
+   "chart": "s3: Total Value of Files",
+   "width": "Half"
+  },
+  {
+   "chart": "s3: Total collection due",
+   "width": "Half"
+  },
+  {
+   "chart": "s4: Total amount collected from bank",
+   "width": "Half"
+  },
+  {
+   "chart": "s4: Total Value of Files",
+   "width": "Half"
+  },
+  {
+   "chart": "s4: Total collection due",
+   "width": "Half"
+  },
+  {
+   "chart": "s5: Total amount collected from bank",
+   "width": "Half"
+  },
+  {
+   "chart": "s5: Total Value of Files",
+   "width": "Half"
+  },
+  {
+   "chart": "s5: Total collection due",
+   "width": "Half"
+  },
+  {
+   "chart": "s6: Total amount collected from bank",
+   "width": "Half"
+  },
+  {
+   "chart": "s6: Total Value of Files",
+   "width": "Half"
+  },
+  {
+   "chart": "s6: Total collection due",
+   "width": "Half"
+  }
+ ],
+ "creation": "2023-09-16 13:08:35.531069",
+ "dashboard_name": "Custom crm",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 3,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2023-09-20 14:38:40.638649",
+ "modified_by": "Administrator",
+ "module": "Crm",
+ "name": "Custom crm",
+ "owner": "Administrator"
+}
